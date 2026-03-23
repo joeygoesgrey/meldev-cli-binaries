@@ -4,7 +4,7 @@ Africa's Edge Computing Terminal - Upload, manage, and deploy assets directly fr
 
 ## Download
 
-### Latest Release (v1.1.0)
+### Latest Release (v1.1.1)
 
 | Platform | Architecture | Download |
 |----------|-------------|----------|
