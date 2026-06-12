@@ -1,12 +1,12 @@
 {
-  "latest": "v1.1.3",
+  "latest": "v1.1.4",
   "releases": {
-    "v1.1.3": {
-      "date": "2026-06-01",
+    "v1.1.4": {
+      "date": "2026-06-12",
       "assets": {
-        "linux-amd64": "https://github.com/joeygoesgrey/meldev-cli-binaries/releases/download/v1.1.3/meldev-linux-amd64-v1.1.3",
-        "macos-arm64": "https://github.com/joeygoesgrey/meldev-cli-binaries/releases/download/v1.1.3/meldev-macos-arm64-v1.1.3",
-        "windows-amd64": "https://github.com/joeygoesgrey/meldev-cli-binaries/releases/download/v1.1.3/meldev-windows-amd64-v1.1.3.exe"
+        "linux-amd64": "https://github.com/joeygoesgrey/meldev-cli-binaries/releases/download/v1.1.4/meldev-linux-amd64-v1.1.4",
+        "macos-arm64": "https://github.com/joeygoesgrey/meldev-cli-binaries/releases/download/v1.1.4/meldev-macos-arm64-v1.1.4",
+        "windows-amd64": "https://github.com/joeygoesgrey/meldev-cli-binaries/releases/download/v1.1.4/meldev-windows-amd64-v1.1.4.exe"
       }
     }
   }
